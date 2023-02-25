@@ -1,0 +1,5 @@
+print('Por favor insira sua data de nascimento!')
+dia = input('dia: ')
+mes = input('mês ')
+ano = input('ano ')
+print('Ei cara, você nasceu mesmo em: ', dia, 'de', mes, 'de', ano, '? Não minta pra mim não em?!')
