@@ -1,16 +1,16 @@
-#n = bool(input('Digite um valor: '))
+# n = bool(input('Digite um valor: '))
 # float , bool , int , str
-#print(type(n))
+# print(type(n))
 
-#print('é numerico ou não? ')
+# print('é numerico ou não? ')
 
-#b = input('Digite algo: ')
-#print(b.isnumeric())
+# b = input('Digite algo: ')
+# print(b.isnumeric())
 
-#print('é uma letra? ')
+# print('é uma letra? ')
 
-#c = input('Digite algo: ')
-#print(c.isalpha())
+# c = input('Digite algo: ')
+# print(c.isalpha())
 
 print('é alfanumerico? ')
 
